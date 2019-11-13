@@ -6,5 +6,5 @@ git remote add origin https://github.com/1049906948/css-layout.git
 git push -u原始主机
 
 
-网页
-https://1049906948.github.io/css-layout/css布局/ css定位居中布局
+网页预览
+https://1049906948.github.io/css-layout/css布局/css定位居中布局
